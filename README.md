@@ -1,10 +1,2 @@
-Создать страницу на которой будут отображаться:
-- список докладов
-- 2 группы фильтров по чекбоксам
-- текстовая фильтрация
-- сброс фильтра
-
-Требования нефункциональные
-- react 16 или angular 8+
-- данные берутся из mock объектов, которые имитируют
-rest backend 
+using React - 
+An app showing list of presentstaions. Should contain 2 filtering groups, filter clearing. Data is taken from mock objects, mocking rest backend services.
